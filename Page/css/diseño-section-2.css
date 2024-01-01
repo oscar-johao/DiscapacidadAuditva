@@ -1,0 +1,118 @@
+/*=========================================================================================================
+		CONTENIDO MAIN	SECTION2	CONTENIDO MAIN	SECTION2 CONTENIDO MAIN
+===========================================================================================================*/
+.seccion-2 {
+    margin: 10px 0 0 0;
+    text-align: justify;
+    padding: 0;
+}
+.contenido-seccion-2 {
+    margin: 10px;
+}
+
+.seccion-2 div h2 {
+    font-size: 20px;
+}
+.seccion-2 div h2:hover {
+    font-size: 25px;
+}
+
+.titulo-seccion-2 {
+    width: 100%;
+    background-color: rgba(255, 184, 0, 1);
+    box-shadow: 0 7px 7px rgba(0,0,0,0.25);
+    padding: 1px 20px;
+}
+
+.oido {
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+.oido div img {
+    display: block;
+    width: 50%;
+    float: left;
+    width: 350px;
+    height: auto;
+}
+.img-oido img {
+    border: 1px solid #000;
+    border-radius: 20px;
+}
+.oido .img-oido {
+    width: 40%;
+    float: left;
+}
+.text-oido-2 {
+    padding-bottom: 35px;
+}
+
+.text-dis-audi {
+    margin: 20px;
+}
+.text-dis-audi ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.cuadro-verde {
+    margin-left: 30px;
+    text-align: center;
+    background-color: #88C800;
+    border-radius: 10px;
+	box-shadow: 5px 5px 5px #3e5b00;
+    width: 450px;
+}
+.cuadro-verde h2{
+    padding: 10px;
+}
+
+.contenedor1 {
+    margin: 0 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    display: flex;
+}
+.columna {
+    flex: 1;
+}
+.text-c {
+    width: 400px;
+    padding: 30px;
+}
+
+.contenedor2 {
+    padding: 10px;
+    display: flex;
+}
+.contenedor2 ul {
+    padding: 0;
+    list-style-type: none;
+}
+.cuadro {
+    padding: 10px;
+}
+
+.cuadro-verde-2 {
+    margin-left: 30px;
+    text-align: center;
+    background-color: #88C800;
+    border-radius: 10px;
+	box-shadow: 5px 5px 5px #3e5b00;
+    width: 720px;
+}
+.cuadro-verde-2 h2{
+    padding: 10px;
+}
+.contenido ul{
+    margin: 0;
+    padding-right: 10px;
+    list-style-type: none;
+}
+.contenido ul p {
+    text-align: justify;
+}

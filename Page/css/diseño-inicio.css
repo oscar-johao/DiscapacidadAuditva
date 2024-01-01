@@ -1,0 +1,36 @@
+/*=========================================================================================================
+		CONTENIDO MAIN	INICIO	CONTENIDO MAIN	INICIO CONTENIDO MAIN
+===========================================================================================================*/
+.section-1 {
+    padding-top: 70px;
+    margin: 0 auto;
+    overflow: hidden;
+    border: 1px solid #000;
+    display: flex;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.texto-section-1 {
+    width: 50%;
+    float: left;
+}
+.texto-section-1 p {
+    text-align: justify;
+    line-height: 35px;
+}
+
+.img-contenido-1 {
+    width: 40%;
+    float: right;
+}
+.img-contenido-1 img {
+    margin-bottom: 20px;
+    transform: translate(70%,0);
+    width: 50%;
+    height: auto;
+    display: block;
+}
+
+
+
